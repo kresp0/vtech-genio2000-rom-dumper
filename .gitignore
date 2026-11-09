@@ -1,0 +1,15 @@
+# build output (release/ holds the published images)
+build/
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+# captures and reconstructed dumps are NOT published: they are the VTech firmware
+dumps/
+*.PARTIAL.bin
+firmware_*.bin
+bank_[0-7].bin
+capture_*.bin
+# any other binary stays out unless explicitly released
+*.bin
+!release/*.bin
