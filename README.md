@@ -63,7 +63,7 @@ sudo apt install sdcc python3 python3-serial python3-pytest
 ## Quick start
 
 ```bash
-git clone <repository-url> vtech-genio2000-rom-dumper && cd vtech-genio2000-rom-dumper
+git clone https://github.com/kresp0/vtech-genio2000-rom-dumper vtech-genio2000-rom-dumper && cd vtech-genio2000-rom-dumper
 ./build.sh all                                  # builds and checks the three programs
 sha256sum -c release/SHA256SUMS                 # the images in release/ are the ones validated
 python3 -m pytest -q -p no:cacheprovider tests  # about 80 s
