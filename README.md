@@ -1,8 +1,6 @@
 # vtech-genio2000-rom-dumper
 
-Tools to read the internal firmware of the **Spanish VTech Genio 2000** from original hardware: three small cartridge
-programs (built with SDCC and VGLDK), a cartridge modification that lets you load them from an AT28C256 EEPROM, and host
-software that receives the data over the printer port, checks it with CRC-16 and CRC-32, and rebuilds and validates the dump.
+Tools to read the internal firmware of the **Spanish VTech Genio 2000** from original hardware with a cartridge modification that lets you load the dumper from an AT28C256 EEPROM, and host software that receives the data over the printer port, checks it with CRC-16 and CRC-32, and rebuilds and validates the dump.
 
 ![Modified Genio 2000 cartridge, component side](hardware/photos/modified_cartridge_component_side_annotated.jpg)
 
