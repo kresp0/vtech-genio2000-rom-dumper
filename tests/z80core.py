@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """
 Compact but complete-enough Z80 interpreter (no T-state counting) to run the code SDCC generates for -mz80.

@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """Build artefacts: SDCC output and AT28C256 images. Run ./build.sh all first. Never programs any chip."""
 import hashlib, os, re, subprocess

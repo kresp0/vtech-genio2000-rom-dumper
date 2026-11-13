@@ -116,9 +116,10 @@ The protocol is documented in [docs/PROTOCOL.md](docs/PROTOCOL.md), the tests in
 
 ## Licensing
 
-Original code, **photographs, annotated images and diagrams by the author: GPL-3.0-or-later**, Copyright (C) 2026 Santiago Crespo (photographs: see [hardware/photos/README.md](hardware/photos/README.md); the unannotated originals are kept as the preferred source for modification). See [LICENSE](LICENSE) (GNU GPL v3 text), `SPDX-License-Identifier` headers in each file, and
-[docs/LICENSE_AUDIT.md](docs/LICENSE_AUDIT.md). The cartridge images contain code from VGLDK and are distributed under GPL v3.
-`third_party/vgldk/` holds seven unmodified VGLDK headers with their upstream license; see [third_party/README.md](third_party/README.md).
+* **Original code** (`src/`, `tools/`, `tests/`, `build.sh`) by Santiago Crespo: **0BSD** ([LICENSE](LICENSE)): use, copy, modify and distribute it for any purpose, with or without fee, without conditions. Each file has its `SPDX-License-Identifier`.
+* **Documentation, photographs, annotated images and diagrams** by the author: dedicated to the public domain under **CC0 1.0** ([LICENSE-CC0](LICENSE-CC0); photographs: see [hardware/photos/README.md](hardware/photos/README.md), the unannotated originals are kept as the preferred source for modification).
+* **The cartridge images** (`release/`) contain code from VGLDK and are distributed under **GPL v3**. `third_party/vgldk/` holds seven unmodified VGLDK headers with their upstream license; see [third_party/README.md](third_party/README.md) and [docs/LICENSE_AUDIT.md](docs/LICENSE_AUDIT.md).
+* Until 2026-11-13 the original code and the photographs were released under GPL-3.0-or-later; copies taken then may still be used under those terms.
 
 This is an independent project. It is **not affiliated with, endorsed by or sponsored by VTech**; "VTech", "Genio" and
 "Genius Leader" are trademarks of their owners.

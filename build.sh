@@ -1,5 +1,5 @@
 #!/bin/bash
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 # build.sh <diag|diag16|dump|all>
 #   diag    -> bank_diag      (stages A-D, selectors 0x00-0x0F)

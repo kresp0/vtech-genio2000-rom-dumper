@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """bankdiag - interpretation of the frames sent by the bank diagnostic cartridges (bank_diag, bank_diag16). Analysis only.
 Distinguishes mirrored banks, empty banks, unstable reads and selectors that do not behave like the reference (MAME-like) model."""

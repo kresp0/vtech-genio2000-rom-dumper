@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """bank_diag16 (selectors 0x10..0x1F) in the simulator + analysis."""
 import functools, pytest

@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """Receiver/analyser on captures: lost frames, duplicates, corruption, interruption, PARMRK, JSON/CSV output."""
 import json, os, subprocess, sys, csv

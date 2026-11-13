@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: 0BSD
 // Copyright (C) 2026 Santiago Crespo
 /*
 	bank_diag - PHASE 2: bank-selection diagnostic for the Spanish VTech Genio 2000 internal ROM. Genio -> PC only (printer-port soft UART).

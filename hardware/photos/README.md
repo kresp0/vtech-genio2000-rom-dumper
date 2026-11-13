@@ -6,13 +6,13 @@ tooling. They show the cartridge **"Inglés para principiantes"** (PCB 701243C).
 ## License
 
 ```
-SPDX-License-Identifier: GPL-3.0-or-later
-Copyright (C) 2026 Santiago Crespo
+SPDX-License-Identifier: CC0-1.0
+By Santiago Crespo, 2026
 ```
 
 The author's original photographs, their cropped and annotated versions, and the author's original diagrams in this repository are
-released under the **GNU General Public License, version 3 or (at your option) any later version**, the same license as the code
-(see `../../LICENSE`). This applies only to material authored by the repository author. It does not change the license or the
+dedicated to the public domain under **CC0 1.0 Universal** (see `../../LICENSE-CC0`): no attribution is required. Until 2026-11-13
+they were released under GPL-3.0-or-later; copies taken then may still be used under those terms. This applies only to material authored by the repository author. It does not change the license or the
 attribution of any third-party material: the VTech trademarks and the printed markings that appear on the photographed hardware
 remain the property of their owners.
 

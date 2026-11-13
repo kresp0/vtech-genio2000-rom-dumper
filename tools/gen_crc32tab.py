@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """Generates build/<target>/crc32tab.s: CRC-32 table (IEEE 802.3, reflected, poly 0xEDB88320) as 4 planes of 256 bytes,
 256-aligned, in an ABS area at 0x9C00 (inside the 8 KiB cartridge image). crc32_run() (bank_common.h)

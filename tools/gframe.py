@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """gframe - protocol v2 of the Genio 2000 bank dumper (Genio -> PC only). See docs/PROTOCOL.md.
 

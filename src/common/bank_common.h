@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: 0BSD
 // Copyright (C) 2026 Santiago Crespo
 /*
 	bank_common.h - code shared by bank_diag.c (diagnostic) and bank_dump.c (full dump) for the VTech Genio 2000.

@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """The REAL asm routine crc32_run (not the hook) against zlib, including the 16 KiB of a bank and counter wrap-around."""
 import os, random, zlib

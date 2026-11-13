@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """The REAL diagnostic cartridge image executed in the Z80 simulator with MAME-like banks (see sim_genio.py)."""
 import functools, struct, pytest

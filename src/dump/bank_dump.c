@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-License-Identifier: 0BSD
 // Copyright (C) 2026 Santiago Crespo
 /*
 	bank_dump - PHASE 3: full-data dump of the internal-ROM banks selectable through port 0x01 (window 0x4000-0x7FFF) of the

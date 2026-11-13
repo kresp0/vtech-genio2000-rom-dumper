@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """dumpsession - interpretation of the bank_dump frames (tool=2). Never fills in missing data: a missing block stays missing."""
 import struct, hashlib

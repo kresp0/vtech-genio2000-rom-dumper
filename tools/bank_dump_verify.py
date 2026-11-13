@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """bank_dump_verify - compares independent captures/sessions of the bank dumper, combines verified blocks and builds
 the candidate image. It only READS the captures; it writes into a new directory (never overwrites).

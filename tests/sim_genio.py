@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """
 sim_genio - runs the REAL compiled image (8 KiB cartridge) instruction by instruction in a Z80 interpreter (z80core.py)

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """bank_dump_rx - receiver for the bank_dump cartridge (Genio -> PC; the PC TXD is NOT connected).
 

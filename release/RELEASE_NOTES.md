@@ -46,5 +46,5 @@ does not work.** Read the electrical-risks section first.
 
 ## Licence
 
-GPL-3.0-or-later for the original code (images contain VGLDK code: GPL v3). Built with VGLDK by Bernhard "HotKey" Slawik,
+The images contain VGLDK code and are distributed under GPL v3; the original code they are built from is 0BSD. Built with VGLDK by Bernhard "HotKey" Slawik,
 commit 6fbd389. Not affiliated with VTech.

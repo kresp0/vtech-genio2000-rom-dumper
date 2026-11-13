@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """Build-time check of the memory discipline of a dumper image: all code/constants in the cartridge window
 0x8000-0x9FFF below the CRC-32 table (0x9C00), variables in 0xC000-0xC3FF (below SP_MIN),

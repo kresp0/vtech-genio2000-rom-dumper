@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: 0BSD
 # Copyright (C) 2026 Santiago Crespo
 """bank_dump in the simulator + receiver + verifier (two independent sessions, losses, duplicates, conflicts, ordering)."""
 import functools, json, os, random, subprocess, sys
