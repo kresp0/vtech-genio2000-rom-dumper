@@ -10,6 +10,10 @@ Tools to read the internal firmware of the **Spanish VTech Genio 2000** from ori
 
 > The modification was made on the **"Inglés para principiantes"** cartridge. Other cartridges with a different jumper configuration (J1 to J7) or ROM may need different changes.
 
+![MAME snapshots](screens_mame.png)
+
+*MAME snapshots, 4x enlarged: `bank_diag` (start, stage A at work, the end) and `bank_dump` (start, a bank being read and sent, the end). The programs have no help screen: the start screen shows the keys. `tests/sheet.sh` makes this picture (`tests/shots.lua`, `tests/shots_*.txt`); the screens contain no firmware data.*
+
 > **Status.** The method worked on the author's single Genio 2000 (2026-11-08). It has not been tried on other units,
 > other firmware revisions or other VTech models. The repository does **not** contain VTech's firmware and never will.
 

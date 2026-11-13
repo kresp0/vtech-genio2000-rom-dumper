@@ -1,0 +1,9 @@
+# bank_dump: the start screen, a bank being sent, the end
+wait 2
+snap
+press INTRO
+wait 4
+snap
+wait 400
+snap
+quit

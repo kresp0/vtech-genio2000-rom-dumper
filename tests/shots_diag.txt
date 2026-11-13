@@ -1,0 +1,15 @@
+# bank_diag: the start screen, a stage at work, the end
+wait 2
+snap
+press INTRO
+wait 1.5
+snap
+wait 6
+press INTRO
+wait 6
+press INTRO
+wait 6
+press INTRO
+wait 60
+snap
+quit
